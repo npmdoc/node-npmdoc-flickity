@@ -1,4 +1,7 @@
-# api documentation for  [flickity (v2.0.5)](http://flickity.metafizzy.co)  [![npm package](https://img.shields.io/npm/v/npmdoc-flickity.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-flickity) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-flickity.svg)](https://travis-ci.org/npmdoc/node-npmdoc-flickity)
+# npmdoc-flickity
+
+#### basic api documentation for  [flickity (v2.0.5)](http://flickity.metafizzy.co)  [![npm package](https://img.shields.io/npm/v/npmdoc-flickity.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-flickity) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-flickity.svg)](https://travis-ci.org/npmdoc/node-npmdoc-flickity)
+
 #### Touch, responsive, flickable carousels
 
 [![NPM](https://nodei.co/npm/flickity.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/flickity)
@@ -85,7 +88,8 @@
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "style": "css/flickity.css",
-    "version": "2.0.5"
+    "version": "2.0.5",
+    "bin": {}
 }
 ```
 
